@@ -1,0 +1,15 @@
+1. Download Tomcat：
+Tomcat Website
+https://tomcat.apache.org/
+Choose the version you want from Core (tar.gz)
+
+2. Move the unziped file out to library
+Use finder to find zip file, then unzip it.
+If you can't find library directly, you can press shift + command + g, then input ~/Library.
+Rename the file as tomcat.
+
+3. Configration
+Find a file named startup.sh in bin folder of tomcat folder, also you can see a file named shutdown.sh.
+Enter Terminal, then drag the start file directly to the Terminal.
+Then go to http://localhost:8080, if you can enter the website successful, that means it works.
+If you want to close it, just close the Terminal or drag the close file to Terminal.
