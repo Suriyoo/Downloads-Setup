@@ -1,2 +1,2 @@
 # Downloads-Setup
-for mac
+Tomcat
