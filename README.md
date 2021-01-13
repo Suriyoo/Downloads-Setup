@@ -1,3 +1,2 @@
 # Downloads-Setup
-Tomcat
-IntelliJ IDEA
+Tomcat, IntelliJ IDEA
